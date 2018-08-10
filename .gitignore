@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+BullAndCows/Project1/BullAndCows/BullAndCows.vcxproj.filters
+BullAndCows/Project1/.vs/BullAndCows/v15/Browse.VC.db
+BullAndCows/Project1/BullAndCows/BullAndCows.vcxproj
+BullAndCows/Project1/BullAndCows.sln
+BullAndCows/Project1/.vs/BullAndCows/v15/Browse.VC.opendb
