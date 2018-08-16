@@ -8,9 +8,14 @@ string GetGuessAndPrintBack();
 
 int main()
 {
+	constexpr int NUMBERS_OF_TURNS = 5;
 	PrintIntro();
-    GetGuessAndPrintBack();
-	GetGuessAndPrintBack();
+	
+	//loop for the numbers of turns asking guess
+	for (size_t count = 0; count < NUMBERS_OF_TURNS; count++)
+	{
+		GetGuessAndPrintBack();
+	}
 	
 	return 0;
 }
